@@ -64,11 +64,11 @@ This is the cornerstone project exploring:
 Comprehensive air quality data analysis work including:
 - Regional air quality assessments
 - Data quality and management frameworks
-- Analysis lessons and methodologies
+- Analysis lessons and methodologies. For example: [network performance analysis lesson](https://github.com/karegapauline/AQS_data_analysis/blob/main/methods_of_performce_analysis_reproducible_notes_and_code.ipynb)
 - Decision support tools for environmental health
 
 📁 **Sub-Project Repository:** [AQS_data_analysis](https://github.com/karegapauline/AQS_data_analysis)  
-📋 **Details:** [AQS Project README](./AQS_data_analysis/README.md)
+📋 **Details:** [AQS Project README](https://github.com/karegapauline/AQS_data_analysis/edit/main/README.md)
 
 **Status:** 🔄 Active consulting work  
 **Skills Applied:** Data consulting, regional analysis, stakeholder engagement
