@@ -1,20 +1,127 @@
-# Health-Environment-Data-Linking projects
+# 🌍 Health-Environment-Data-Linking Projects
 
-The goal of this repository is to present all things related to health and environmental data linking that I am learning or working on. So, stuff from my PhD, and fun projects to learn. 
+Professional portfolio showcasing data analysis work at the intersection of health and environmental science.
 
-### Projects
+## 📑 Quick Navigation
 
-1. The recent flash floods in Kenya were devastating. This has happened before, and it appears that the crisis response was not properly anticipated. I thought it would be interesting to find sources of flood data from years and compare if these issues keep happening in the same locations and at what magnitude. I thought it would also be interesting to explore the sources of historical and more recent flood datasets and to assess their usability for crisis management and predictive analysis. 
-The work is being done in this notebook: [Kenya flood history data analysis](https://github.com/karegapauline/Health-Environment-Data-Linking/blob/main/flood_dashboard.ipynb)  
+- [Main Projects](#-projects)
+- [AQS Data Analysis Sub-Project](#-aqs-east-africa-air-quality-analysis)
+- [Skills & Tools](#-skills--tools)
+- [Blog Posts](#-blog-posts)
 
-2. Air quality and health data linking. This one is the BIG ONE for me. I am exploring the linkage between air quality and health data. So, I am working on multiple small projects to feed into one big one, that explore this air quality and health data analysis. This work is continuous in this notebook: [Air Quality and health data analysis](https://github.com/karegapauline/Health-Environment-Data-Linking/blob/main/airqual_health_analysis.ipynb)
+---
 
-3. I also write blogs around the areas I am applying all the knowledge I am gaining about data and people. Topics such as data governance, case studies of data system failures, designing data systems, and histories of data infrastructure. [Blogs](https://github.com/karegapauline/Health-Environment-Data-Linking/tree/main/blogs)
+## 🎯 About This Repository
 
-### Skills 
-These projects are helping me shape the following skills: 
- - Data analysis using Python
- - Statistical analysis
- - Data integration from multiple sources (sort of like ETL data pipeline creation)
- - Writing
- - Critical thinking
+This repository presents work related to health and environmental data linking—from PhD research to innovative data science projects exploring the critical connections between environmental quality and public health outcomes.
+
+**Key Focus Areas:**
+- Environmental health data integration
+- Air quality and health linkage analysis
+- Flood risk and climate resilience
+- Data systems design and governance
+
+---
+
+## 📊 Projects
+
+### 1. 🌊 Kenya Flood History & Crisis Management Analysis
+**Objective:** Understand historical flood patterns and their implications for crisis response
+
+Devastating flash floods in Kenya prompted this investigation into:
+- Historical flood data sources and their reliability
+- Spatial and temporal patterns of flood occurrence
+- Data usability for crisis management and predictive modeling
+- Comparative analysis across regions and time periods
+
+📓 **Notebook:** [Kenya Flood Dashboard Analysis](https://github.com/karegapauline/HandE_projects/blob/main/flood_dashboard.ipynb)
+
+**Status:** 🔄 Ongoing  
+**Skills Applied:** Data integration, geospatial analysis, time-series analysis
+
+---
+
+### 2. 🌬️ Air Quality and Health Data Linking (THE BIG PROJECT)
+**Objective:** Establish quantifiable relationships between air quality metrics and health outcomes
+
+This is the cornerstone project exploring:
+- Multi-source air quality data integration
+- Health outcome correlation analysis
+- Temporal and spatial relationships
+- Policy and intervention implications
+
+📓 **Notebook:** [Air Quality & Health Analysis](https://github.com/karegapauline/HandE_projects/blob/main/airqual_health_analysis.ipynb)  
+📄 **Related Research:** [Articles and Papers Analysis](https://github.com/karegapauline/HandE_projects/blob/main/Articles_and_Papers_analysis.ipynb)
+
+**Status:** 🔄 Ongoing  
+**Skills Applied:** Statistical analysis, data integration, Python, critical analysis
+
+---
+
+### 3. 🔗 AQS East Africa Air Quality Analysis
+**Objective:** Data analysis consulting for AQS East Africa's regional air quality initiatives
+
+Comprehensive air quality data analysis work including:
+- Regional air quality assessments
+- Data quality and management frameworks
+- Analysis lessons and methodologies
+- Decision support tools for environmental health
+
+📁 **Sub-Project Repository:** [AQS_data_analysis](https://github.com/karegapauline/AQS_data_analysis)  
+📋 **Details:** [AQS Project README](./AQS_data_analysis/README.md)
+
+**Status:** 🔄 Active consulting work  
+**Skills Applied:** Data consulting, regional analysis, stakeholder engagement
+
+---
+
+## 📚 Blog Posts
+
+Reflections and insights on data systems, governance, and environmental health:
+
+- 📖 [Data Governance in Environmental Health](https://github.com/karegapauline/HandE_projects/tree/main/blogs)
+- 📖 [Case Studies of Data System Failures](https://github.com/karegapauline/HandE_projects/tree/main/blogs)
+- 📖 [Designing Resilient Data Systems](https://github.com/karegapauline/HandE_projects/tree/main/blogs)
+- 📖 [Histories of Data Infrastructure](https://github.com/karegapauline/HandE_projects/tree/main/blogs)
+
+---
+
+## 🛠️ Skills & Tools
+
+Through these projects, I'm developing expertise in:
+
+| Skill | Application |
+|-------|------------|
+| **Python Data Analysis** | Data cleaning, transformation, exploratory analysis |
+| **Statistical Analysis** | Correlation, regression, hypothesis testing |
+| **Data Integration & ETL** | Multi-source data consolidation and pipeline creation |
+| **Geospatial Analysis** | Flood mapping, regional environmental assessment |
+| **Technical Writing** | Documentation, blog posts, research communication |
+| **Critical Thinking** | Problem-scoping, methodology design, findings interpretation |
+
+**Tools & Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, GeoPandas, Jupyter
+
+---
+
+## 🎓 Project Philosophy
+
+> "Understanding the relationship between our environment and our health requires rigorous data analysis, ethical data practices, and a commitment to making insights actionable for communities."
+
+These projects reflect a commitment to:
+- ✅ Rigorous, reproducible analysis
+- ✅ Open science and transparency
+- ✅ Practical, actionable insights
+- ✅ Ethical data stewardship
+
+---
+
+## 📬 Get Involved
+
+Have ideas, feedback, or want to collaborate on environmental health data projects? Feel free to:
+- Open an issue with suggestions
+- Submit pull requests for improvements
+- Reach out with collaboration proposals
+
+---
+
+**Last Updated:** March 2026
